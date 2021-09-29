@@ -1,2 +1,3 @@
-# https---github.com-PtitGreg-Shooter
+# Shooter
+-----------------------------------------
 Small project 2D game in python to learn
